@@ -1,0 +1,182 @@
+[
+    {
+        "numero": 101,
+        "piso": 1,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 102,
+        "piso": 1,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 103,
+        "piso": 1,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 104,
+        "piso": 1,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 105,
+        "piso": 1,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 106,
+        "piso": 1,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 201,
+        "piso": 2,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 202,
+        "piso": 2,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 203,
+        "piso": 2,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 204,
+        "piso": 2,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 205,
+        "piso": 2,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 206,
+        "piso": 2,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 301,
+        "piso": 3,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 302,
+        "piso": 3,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 303,
+        "piso": 3,
+        "tipo": "Doble",
+        "costo": 50
+    },
+    {
+        "numero": 304,
+        "piso": 3,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 305,
+        "piso": 3,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 306,
+        "piso": 3,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 401,
+        "piso": 4,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 402,
+        "piso": 4,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 403,
+        "piso": 4,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 404,
+        "piso": 4,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 405,
+        "piso": 4,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 406,
+        "piso": 4,
+        "tipo": "Triple",
+        "costo": 75
+    },
+    {
+        "numero": 501,
+        "piso": 5,
+        "tipo": "Cuadruple",
+        "costo": 100
+    },
+    {
+        "numero": 502,
+        "piso": 5,
+        "tipo": "Cuadruple",
+        "costo": 100
+    },
+    {
+        "numero": 503,
+        "piso": 5,
+        "tipo": "Cuadruple",
+        "costo": 100
+    },
+    {
+        "numero": 504,
+        "piso": 5,
+        "tipo": "Cuadruple",
+        "costo": 100
+    },
+    {
+        "numero": 505,
+        "piso": 5,
+        "tipo": "Cuadruple",
+        "costo": 100
+    },
+    {
+        "numero": 506,
+        "piso": 5,
+        "tipo": "Cuadruple",
+        "costo": 100
+    }
+]
